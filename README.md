@@ -6,4 +6,4 @@ My skills:
 
 I use:
 
-[![My Skills](https://skillicons.dev/icons?i=windows,arch,github,docker,visualstudio,vscode,pycharm&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,arch,github,docker,visualstudio,vscode,pycharm&perline=7)](https://skillicons.dev)
