@@ -2,7 +2,7 @@ Hi! My name is Alexander. I do amateur backend and (some) frontend development. 
 
 My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,dotnet,mysql,git&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,dotnet,mysql,git&perline=6)](https://skillicons.dev)
 
 I use:
 
