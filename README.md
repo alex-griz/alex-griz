@@ -1,9 +1,9 @@
-Hi! My name is Alexander. I do amateur backend and (some) frontend development. Here you can see some of my own projects
+##Hi, I'm Alex! I'm developing small amateur projects. You can see some of them here
 
-My skills:
+###**My skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,dotnet,mysql,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,dotnet,mysql,git&perline=7)](https://skillicons.dev)
 
-I use:
+###**I use:**
 
-[![My Skills](https://skillicons.dev/icons?i=windows,arch,github,docker,visualstudio,vscode,pycharm&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,github,visualstudio,vscode&perline=4)](https://skillicons.dev)
