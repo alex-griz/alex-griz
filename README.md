@@ -2,7 +2,7 @@
 
 ### **My skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,dotnet,mysql,git&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,dotnet,mysql,sqlite,git&perline=4)](https://skillicons.dev)
 
 ### **I use:**
 
